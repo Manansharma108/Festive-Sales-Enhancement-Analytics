@@ -30,3 +30,4 @@ Actionable Insights: The insights derived from the analysis are translated into 
 Result Communication: Finally, the analysis results are communicated effectively to both technical and non-technical stakeholders. The analysis report is designed to be concise and informative, enabling stakeholders to make informed decisions to drive sales growth and maximize profitability during festive seasons.
 
 This project serves as a valuable resource for businesses looking to leverage data-driven insights to enhance their festive sales strategies and drive sustainable growth.
+hi manan
